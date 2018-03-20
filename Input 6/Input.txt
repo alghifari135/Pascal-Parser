@@ -1,0 +1,5 @@
+program alg1hi;
+var a,b,c : integer;
+begin 
+
+end.

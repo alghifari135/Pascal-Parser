@@ -1,0 +1,6 @@
+program alg1hi;
+var 
+	a : array[1..100] of integer;
+begin 
+
+end.

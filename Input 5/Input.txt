@@ -1,0 +1,7 @@
+program alg1hi;
+var a : integer;
+begin 
+	a:=a+5*6;
+end.
+<> <= >= =
+..

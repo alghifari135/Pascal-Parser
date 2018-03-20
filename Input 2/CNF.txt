@@ -1,0 +1,11 @@
+P>JM
+J>RN
+R>program
+N>AB
+A>alghi
+B>;
+M>GE
+G>begin
+E>DT
+D>end
+T>.
